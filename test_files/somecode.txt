@@ -1,0 +1,16 @@
+pippo999
+for
+543.893E+23444566
+PIPPO
+777var
+敭
+ private Token installNumber(String lessema){
+        Token token;
+        if(stringTable.containsKey(lessema))
+            return stringTable .get(lessema);
+        else{
+            token =  new Token("NUM", lessema);
+            stringTable.put(lessema, token);
+            return token;
+        }
+    }

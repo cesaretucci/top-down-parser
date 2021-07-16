@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Esame" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RecDesParser" />
+    <module name="tucci_es3_hcp" />
+    <option name="PROGRAM_PARAMETERS" value="./test_files/esame_source.txt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
